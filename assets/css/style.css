@@ -1,0 +1,13 @@
+@import url(./navbar.css);
+
+:root {
+    --bg-color: #282C33;
+    --font-branco: #FFFFFF;
+    --font-cinza: #ABB2BF;
+    --font-roxo: #C778DD;
+}
+
+body {
+    font-family: 'Fira Code', monospace;
+    background: var(--bg-color);
+}

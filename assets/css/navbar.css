@@ -1,0 +1,26 @@
+.navbar {
+    width: 100%;
+    height: 48px;
+}
+
+.menu-mobile {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 16px 8px;
+}
+
+.nome-navbar {
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 21px;
+
+    color: var(--font-branco);
+}
+
+.menu-navbar {
+    width: 32px;
+    height: 32px;
+}

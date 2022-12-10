@@ -9,3 +9,11 @@ Este projeto foi realizado para criar um exemplo de portfólio para desenvolvedo
  - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)     
  
 ## Lista de execução de tarefas para resolver o problema
+
+- [ ] Responsividade
+- [ ] Criar layout mobile:
+- [X] Barra de navegação
+- [ ] Menu lateral
+- [ ] Criar layout para dispositivos maiores:
+
+### Dificuldades encontradas

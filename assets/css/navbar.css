@@ -26,9 +26,15 @@
 
 .menu-lateral {
 
-    height: 60vh;
+    position: absolute;
+
+    margin-top: -10000px;
+
+    height: 70vh;
     width: 100%;
     background: #24272c;
+
+    transition: 1s;
 }
 
 .menu-lateral div {
@@ -50,4 +56,10 @@
 
 .menu-lateral-link span {
     color: var(--font-roxo);
+}
+
+.menu-lateral-ativo {
+
+    margin-top: 10px;
+    transition: 1s;
 }

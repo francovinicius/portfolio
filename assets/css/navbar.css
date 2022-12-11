@@ -17,10 +17,37 @@
     font-size: 20px;
     line-height: 21px;
 
-    color: var(--font-branco);
 }
 
 .menu-navbar {
     width: 32px;
     height: 32px;
+}
+
+.menu-lateral {
+
+    height: 60vh;
+    width: 100%;
+    background: #24272c;
+}
+
+.menu-lateral div {
+    display: flex;
+    flex-direction: column;
+
+    padding: 15% 30%;
+}
+
+.menu-lateral-link {
+
+    display: flex;
+
+    margin: 10px;
+
+    font-size: 24px;
+
+}
+
+.menu-lateral-link span {
+    color: var(--font-roxo);
 }

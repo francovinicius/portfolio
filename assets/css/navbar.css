@@ -34,7 +34,7 @@
 
     height: 65vh;
     width: 100%;
-    background: #24272c;
+    background: linear-gradient( to bottom, #525252, #414141, #313131);
 
     transition: 1s;
 }

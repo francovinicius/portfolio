@@ -1,0 +1,33 @@
+.apresentacao {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    margin-top: 90px;
+
+}
+
+.texto-principal {
+
+    display: inline-block;
+    
+
+    font-size: 28px;
+    width: 90%;
+}
+
+.texto-principal span {
+
+    font-size: 24px;
+    color: var(--font-azul);
+}
+
+.avatar-img {
+
+    width: 350px;
+    height: 290px;
+
+
+}

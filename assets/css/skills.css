@@ -1,0 +1,49 @@
+.skills {
+
+    display: inline-block;
+    width: 100%;
+    margin: 6rem 0;
+}
+
+.topicos {
+
+    display: flex;
+    align-items: center;
+
+    width: 95%;
+    margin: 30px;
+    gap: 10px;
+    font-size: 20px;
+}
+
+.topicos span {
+    color: var(--font-azul);
+}
+
+.topicos div {
+    width: 30%;
+    border-bottom: 1px solid var(--font-azul);
+}
+
+.topicos h3 {
+    font-size: 14px;
+}
+
+.meus-skills {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 95%;
+
+    
+
+}
+
+.img-skill {
+
+    width: 3rem;
+    height: 3rem;
+    opacity: .6;
+
+}

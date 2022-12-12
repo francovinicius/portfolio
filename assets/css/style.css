@@ -1,12 +1,13 @@
 @import url(./navbar.css);
 @import url(./apresentação.css);
 @import url(./footer-mobile.css);
+@import url(./skills.css);
 
 :root {
     --bg-color: #282C33;
     --font-branco: #FFFFFF;
     --font-cinza: #ABB2BF;
-    --font-azul: #50B7D3;
+    --font-azul: #03d2f7;
 }
 
 html {

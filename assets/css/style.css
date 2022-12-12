@@ -1,5 +1,6 @@
 @import url(./navbar.css);
 @import url(./apresentação.css);
+@import url(./footer-mobile.css);
 
 :root {
     --bg-color: #282C33;
@@ -9,6 +10,7 @@
 }
 
 html {
+    
     font-family: 'Fira Code', monospace;
     background: var(--bg-color);
     color: var(--font-branco);

@@ -13,6 +13,6 @@
 html {
     
     font-family: 'Fira Code', monospace;
-    background: linear-gradient( to bottom, #525252, #414141, #313131, #321D2F );
+    background: linear-gradient( to bottom, #525252, #414141, #313131, #374a50 );
     color: var(--font-branco);
 }

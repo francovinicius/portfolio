@@ -36,7 +36,7 @@
     width: 100%;
     background: linear-gradient( to bottom, #525252, #414141, #313131);
 
-    transition: 1s;
+    transition: .5s;
 }
 
 .menu-lateral div {
@@ -71,5 +71,5 @@ cursor: pointer;
     position: absolute;
 
     margin-top: 10px;
-    transition: 1s;
+    transition: .25s;
 }

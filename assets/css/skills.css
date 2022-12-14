@@ -19,3 +19,9 @@
         border-radius: 2px;
 
 }
+
+.skills h4 {
+    font-size: 1rem;
+    margin: 2rem 0 1.5rem 0;
+    opacity: .6;
+}

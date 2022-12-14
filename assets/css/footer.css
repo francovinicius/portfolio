@@ -1,0 +1,11 @@
+footer ul li a i img {
+    width: 24px;
+}
+
+.fixar-rodape{
+
+    border-top: 1px solid #abb2bf7a;
+    bottom: 0;
+    width: 100%;
+    padding-top: 1rem;
+  }

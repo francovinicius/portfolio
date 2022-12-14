@@ -18,16 +18,19 @@
               <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                 <ul class="navbar-nav">
                   <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="./index.html">Home</a>
+                    <a class="nav-link active" aria-current="page" href="./index.html">Home</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#sobre">Sobre Mim</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Projects</a>
+                    <a class="nav-link" href="#principais-skills">Skills</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link disabled">Contact</a>
+                    <a class="nav-link" href="#projetos">Projetos</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#contatos">Contatos</a>
                   </li>
                 </ul>
               </div>
@@ -57,25 +60,35 @@
 
         <div class="sobre-wrap d-flex align-items-center justify-content-around">
             <img class="img-github" src="https://github.com/francovinicius.png" alt="Avatar Vinicius">
-            <p>Antes de mergulhar de cabeça no desenvolvimento web, trabalhei em uma empresa onde 
-                era responsável pela manutenção dos laboratórios de informática, fui supervisor 
-                de operações e ocupei a cadeira de professor de matemática e física 
-                em pré vestibulares. Foi um tempo de grande crescimento pessoal e profissional pois
-                hoje posso dizer que tenho experiência com resolução de problemas, supervisionar,
-                traçar metas e estratégias em equipe entre outras.
-                <br>
-                Já no âmbito da tecnologia venho aprimorando meus conhecimentos em front end, prezando sempre
-                 em entregar meus projetos com design responsivo começando pelo mobile (Mobile First). Tenho conhecimentos
-                  em HTML5, CSS3, JavaScript. Hoje eu tenho estudado mais a fundo React e Bootstrap.
-                <br>
-                Hoje sou formado em Matemática e estou cursando Análise e Desenvolvimento de sistemas.
-                <br><br>
-                Estou sempre bem animado pra conhecer pessoas novas, novas culturas então caso queira saber mais clique no 
-                botão "Contate-me" e entre em contato comigo. Um grande abraço!
+            
+            <div class="d-flex justify-content-center align-items-center flex-column">
+                <p>Desenvolvedor front-end. Posso desenvolver sites responsivos a 
+                    partir do zero e transformá-los em experiências web modernas e fáceis de usar.</p>
+    
+                <p class="ler-mais">Antes de mergulhar de cabeça no desenvolvimento web, trabalhei em uma empresa onde 
+                    era responsável pela manutenção dos laboratórios de informática, fui supervisor 
+                    de operações e ocupei a cadeira de professor de matemática e física 
+                    em pré vestibulares. Foi um tempo de grande crescimento pessoal e profissional pois
+                    hoje posso dizer que tenho experiência com resolução de problemas, supervisionar,
+                    traçar metas e estratégias em equipe entre outras.
+                    <br>
+                    Já no âmbito da tecnologia venho aprimorando meus conhecimentos em front end, prezando sempre
+                     em entregar meus projetos com design responsivo começando pelo mobile (Mobile First). Tenho conhecimentos
+                      em HTML5, CSS3, JavaScript. Hoje eu tenho estudado mais a fundo React e Bootstrap.
+                    <br>
+                    Hoje sou formado em Matemática e estou cursando Análise e Desenvolvimento de sistemas.
+                    <br><br>
+                    Estou sempre bem animado pra conhecer pessoas novas, novas culturas então caso queira saber mais clique no 
+                    botão "Contate-me" e entre em contato comigo. Um grande abraço!
+                </p>
+
+                <button type="button" class="btn btn-outline-secondary btn-ler-mais">Ler Mais</button>
+                
+            </div>
 
         </div>
 
-        <div>
+        <div id="principais-skills">
             <h4>Principais Skills</h4>
 
             <div>
@@ -102,6 +115,10 @@
         
     </section>
 
+    <section class="projetos" id="projetos">
+
+    </section>
+
     <footer class="fixar-rodape d-flex justify-content-center flex-column align-items-center">
     
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
@@ -113,7 +130,8 @@
         
         <span class="mb-3 mb-md-0 text-muted">© Copyright 2022. Made by Vinicius</span>
 
-      </footer>
+    </footer>
+    <script src="./assets/js/lerMais.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
   </body>
 </html>

@@ -1,0 +1,21 @@
+.skills {
+    margin: 5rem 0 5rem 1rem;
+}
+.topicos {
+
+    margin: 2rem 0;
+}
+
+.topicos span {
+    color: var(--font-azul);
+}
+
+.topicos div {
+
+        width: 70%;
+        background: linear-gradient(-30deg, #3e9bf1, #1ebe28, #175f20, #23d5ab);
+        background-size: 400% 400%;
+        height: 3px;
+        border-radius: 2px;
+
+}

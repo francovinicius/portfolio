@@ -4,8 +4,6 @@
 
 .nav-link {
 
-    margin-top: 15px;
-    margin-bottom: -15px;
     font-size: 1.3rem;
     color: var(--font-azul);
 }

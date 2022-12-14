@@ -1,0 +1,15 @@
+@import url(./navbar.css);
+@import url(./apresentação.css);
+
+:root {
+    --bg-color: #282C33;
+    --nav-color: #40454d;
+    --font-branco: #FFFFFF;
+    --font-cinza: #ABB2BF;
+    --font-azul: #03d2f7;
+}
+
+body {
+    background-repeat: no-repeat;
+    color: var(--font-branco);
+}

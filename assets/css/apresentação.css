@@ -1,0 +1,20 @@
+.apresentação span {
+    color: var(--font-azul);
+}
+
+.apresentação div {
+    margin: 5%;
+}
+
+.apresentação div h1{
+    font-size: 1.2rem;
+}
+
+.apresentação div img {
+    width: 10.5rem;
+}
+
+.btn-apresentação {
+    display: flex;
+    gap: 1rem;
+}

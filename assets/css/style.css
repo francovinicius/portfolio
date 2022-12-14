@@ -16,3 +16,16 @@ html {
     background: linear-gradient( to bottom, #525252, #414141, #313131, #374a50 );
     color: var(--font-branco);
 }
+
+
+/* Efeito remover após finalizar*/
+.effect {
+
+    width: 30%;
+    background: linear-gradient(-30deg, #3e9bf1, #1ebe28, #175f20, #23d5ab);
+    margin-top: 2px;
+    background-size: 400% 400%;
+    height: 3px;
+    border-radius: 2px;
+    
+}

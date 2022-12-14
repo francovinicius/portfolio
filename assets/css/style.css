@@ -1,6 +1,6 @@
 @import url(./navbar.css);
 @import url(./apresentação.css);
-@import url(./skills.css);
+@import url(./sobre-skills.css);
 @import url(./footer.css);
 
 :root {
@@ -14,4 +14,8 @@
 body {
     background-repeat: no-repeat;
     color: var(--font-branco);
+}
+
+header {
+    margin-bottom: 90px;
 }

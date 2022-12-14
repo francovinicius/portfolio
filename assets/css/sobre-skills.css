@@ -10,6 +10,24 @@
     color: var(--font-azul);
 }
 
+.img-github {
+    width: 10.5rem;
+    border-radius: 50%;
+}
+
+.sobre-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sobre-wrap p {
+
+    margin-top: 20px;
+
+    width: 350px;
+    opacity: .6;
+}
+
 .topicos div {
 
         width: 70%;

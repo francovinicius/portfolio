@@ -1,0 +1,31 @@
+.projetos {
+    margin: 5rem 0 5rem 1rem;
+}
+
+.card-projetos {
+    width: 18rem;
+}
+
+.card-img-top-projetos {
+    width:  100%;
+    height: 100%;
+}
+
+.div-projetos {
+    display: none;
+    
+}
+
+.projeto-img-linguagem {
+    
+    width: 30px;
+    opacity: .6;
+}
+
+.cards-projetos {
+
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2rem 0;
+    gap: 15px;
+}

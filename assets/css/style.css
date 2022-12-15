@@ -2,7 +2,7 @@
 @import url(./apresentação.css);
 @import url(./sobre-skills.css);
 @import url(./footer.css);
-
+@import url(./projetos.css);
 :root {
     --bg-color: #282C33;
     --nav-color: #40454d;

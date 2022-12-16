@@ -1,0 +1,17 @@
+.contatos {
+    margin: 5rem 0 5rem 1rem;
+}
+
+.contatos p, .contatos span {
+    opacity: .6;
+}
+
+.contatos-icons {
+
+    width: 2rem;
+}
+
+.email-contato {
+    display: flex;
+    gap: 5px;
+}

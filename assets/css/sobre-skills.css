@@ -45,9 +45,16 @@
 }
 
 .ler-mais{
-    display: none;
+    position: absolute;
+    left:  -1000vw;
 }
 
 .ler-mais-ativo {
-    display: flex;
+    position: inherit;
+    left: 0;
+}
+
+.btn-ler-mais-inativo {
+    position: absolute;
+    left:  -1000vw;
 }

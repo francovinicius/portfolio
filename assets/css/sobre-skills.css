@@ -53,7 +53,7 @@
 
 .ler-mais{
     position: absolute;
-    left:  -1000vw;
+    left:  -100000vw;
 }
 
 .ler-mais-ativo {
@@ -63,5 +63,5 @@
 
 .btn-ler-mais-inativo {
     position: absolute;
-    left:  -1000vw;
+    left:  -1000000vw;
 }

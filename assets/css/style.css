@@ -21,3 +21,7 @@ body {
 header {
     margin-bottom: 90px;
 }
+
+.apresentação, .skills, .projetos, .contatos {
+    margin-bottom: 15rem;
+}

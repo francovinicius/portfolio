@@ -29,3 +29,7 @@
     margin: 2rem 0;
     gap: 15px;
 }
+
+.card-body-projetos p {
+    opacity: .6;
+}

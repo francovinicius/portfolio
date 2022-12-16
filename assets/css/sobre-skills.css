@@ -20,6 +20,13 @@
     flex-wrap: wrap;
 }
 
+.sobre-escondido {
+
+    width: 95%;
+    margin: 3rem 0;
+    opacity: .6;
+}
+
 .sobre-wrap p {
 
     margin-top: 20px;

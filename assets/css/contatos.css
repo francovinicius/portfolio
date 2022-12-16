@@ -6,12 +6,14 @@
     opacity: .6;
 }
 
-.contatos-icons {
+.email-contato span {
 
-    width: 2rem;
+    font-size: 1.2rem;
 }
 
-.email-contato {
-    display: flex;
-    gap: 5px;
+
+.icons-contatos a img {
+    width: 1.5rem;
+    margin-left: 1rem;
 }
+

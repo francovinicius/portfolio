@@ -1,0 +1,60 @@
+@media screen and (min-width: 720px) {
+
+    /* Apresentaçaõ */
+    .apresentação div h1 {
+        
+        font-size: 2.5rem;
+        
+    }
+
+    .apresentação div img {
+        width: 20.5rem;
+    }
+
+    /* Sobre */
+    .img-github {
+        width: 15.5rem;
+        
+    }
+
+    .skills h4 {
+        font-size: 1.5rem;
+
+    }
+
+    .img-skill {
+        width: 3.5rem;
+    }
+
+    /* Contatos */
+
+    .contatos div p {
+        font-size: 1.3rem;
+        margin-bottom: 2rem;
+    }
+
+    .email-contato span {
+
+        font-size: 1.6rem;
+    }
+
+    .icons-contatos a img {
+        width: 2rem;
+        margin-top: 2rem;
+    }
+}
+
+@media screen and (min-width: 1024px) { 
+
+    /* Apresentaçaõ */
+    .apresentação div h1 {
+        
+        font-size: 3rem;
+        
+    }
+
+    .apresentação div img {
+        width: 23.5rem;
+    }
+
+}

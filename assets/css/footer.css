@@ -8,4 +8,9 @@ footer ul li a i img {
     bottom: 0;
     width: 100%;
     padding-top: 1rem;
-  }
+}
+
+.icon-footer {
+    width: 1.6rem;
+    margin-left: 5px;
+}

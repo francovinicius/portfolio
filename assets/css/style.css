@@ -4,6 +4,7 @@
 @import url(./footer.css);
 @import url(./projetos.css);
 @import url(./contatos.css);
+@import url(./displays.css);
 
 :root {
     --bg-color: #282C33;

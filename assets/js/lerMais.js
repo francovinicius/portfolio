@@ -7,4 +7,3 @@ lerMaisBtn.addEventListener('click', () => {
     aparecendoSobre.classList.toggle('ler-mais-ativo');
     lerMaisBtn.classList.toggle('btn-ler-mais-inativo');
 });
-

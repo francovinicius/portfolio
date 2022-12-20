@@ -83,3 +83,19 @@
     /* Projetos */
 
 }
+
+@media screen and (min-width: 1400px) { 
+
+    /* Apresentaçaõ */
+    .apresentação div h1 {
+        
+        font-size: 5rem;
+        
+    }
+
+    .apresentação div img {
+        width: 40.5rem;
+    }
+}
+
+

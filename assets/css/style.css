@@ -7,16 +7,18 @@
 @import url(./displays.css);
 
 :root {
-    --bg-color: #282C33;
-    --nav-color: #40454d;
+    --bg-color: #000000;
+    --nav-color: #0516250c;
     --font-branco: #FFFFFF;
     --font-cinza: #ABB2BF;
     --font-azul: #03d2f7;
+    --gradient: linear-gradient(#6DB193, #295F4E);
+
 }
 
 body {
-    background-repeat: no-repeat;
-    color: var(--font-branco);
+    background: #000000;
+    color: var( --font-branco);
 }
 
 header {
